@@ -4,6 +4,6 @@ Olá, 👋
 
 🌱 Estou estudando C#, Angular e Flutter
 
-📫 Entre em contato: www.linkedin.com/in/jordhanfelix/
+📫 Quer falar comigo? Entre em contato: www.linkedin.com/in/jordhanfelix/
 
 💻 Meu portfolio: https://jordhanfelix.github.io/ 
