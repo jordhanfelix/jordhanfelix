@@ -28,7 +28,7 @@ Desenvolvedor em formação atualmente cursando Ciência da Computação
 
 * Tenho conhecimento: 
    
-   ![PHP](https://img.icons8.com/color/30/php.png)![Laravel](https://img.icons8.com/fluent/30/000000/laravel.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![MySql](https://img.icons8.com/fluent/30/000000/mysql-logo.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
+   ![PHP](https://img.icons8.com/color/30/php.png)![Laravel](https://img.icons8.com/fluent/30/000000/laravel.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![MySql](https://img.icons8.com/metro/30/000000/mysql.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
 
 :computer: Feito com :heart: por **Jordhan Félix**
