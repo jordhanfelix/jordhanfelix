@@ -18,12 +18,8 @@ Desenvolvedor em formação atualmente cursando Ciência da Computação
 
 
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
+   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/50/000000/c-sharp-logo.png)
 
-<code><img height="32" src="https://www.flaticon.com/free-icon/hashtag_381704" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git"/></code>
 
 * Utilizo os frameworks:
 
