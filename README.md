@@ -24,7 +24,7 @@ Desenvolvedor em formação atualmente cursando Ciência da Computação
 
 * Utilitários que uso:
 
-   ![VisualStudio](https://img.icons8.com/color/30/000000/visual-studio-2019.png)![VsCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png)
+   ![VisualStudio](https://img.icons8.com/color/30/000000/visual-studio-2019.png)![VsCode](https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png)![Postman](https://img.icons8.com/dusk/30/000000/postman-api.png)
 
 
 
