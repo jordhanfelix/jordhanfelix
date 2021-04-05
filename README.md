@@ -18,7 +18,7 @@ Desenvolvedor em formação atualmente cursando Ciência da Computação
 
 
 
-   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/50/000000/c-sharp-logo.png)
+   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png)
 
 
 * Utilizo os frameworks:
