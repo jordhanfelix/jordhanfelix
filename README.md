@@ -16,7 +16,7 @@ Desenvolvedor em formação atualmente cursando Ciência da Computação
 
 * Utilizo diariamente:
 
-   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png)![SQLserver](https://img.icons8.com/color/30/000000/microsoft-sql-server.png)![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png)![SQLserver](https://img.icons8.com/color/30/000000/microsoft-sql-server.png)![Azure](https://img.icons8.com/color/30/000000/azure-1.png)
 
 * Aprendendo:
 
