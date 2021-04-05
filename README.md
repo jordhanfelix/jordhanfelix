@@ -16,33 +16,16 @@ Desenvolvedor em formação atualmente cursando Ciência da Computação
 
 * Utilizo diariamente:
 
+   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png)![SQLserver](https://img.icons8.com/color/30/000000/microsoft-sql-server.png)![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
 
+* Aprendendo:
 
-   ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Csharp](https://img.icons8.com/color/30/000000/c-sharp-logo.png)
-
-
-* Utilizo os frameworks:
-
-   <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-3/256/laravel-512.png" alt="Lumen"/></code>
-<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/lumen-1.svg" alt="Lumen"/></code>
-<code><img height="32" src="https://vuejs.org/images/logo.png" alt="VueJs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-
-* Planos para aprender:
-
-   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-
+   ![NodeJS](https://img.icons8.com/color/30/nodejs.png)![React](https://img.icons8.com/plasticine/30/000000/react.png)![Mongo](https://img.icons8.com/color/30/000000/mongodb.png)
 
 * Utilitários que uso:
 
-   <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
-<code><img height="32" src="https://www.flaticon.com/svg/static/icons/svg/906/906324.svg" alt="VsCode"/></code>
+   ![VisualStudio](https://img.icons8.com/color/30/000000/visual-studio-2019.png)![VsCode](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)![Postman](https://img.icons8.com/dusk/64/000000/postman-api.png)
 
 
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Kali Linux](https://img.icons8.com/color/30/kali-linux.png)![Console](https://img.icons8.com/color/30/console.png)
 
-
-:computer: Feito com :heart: por **Jordhan Félix** utilizando exemplo de  **Waren Gonzaga** :pray:
+:computer: Feito com :heart: por **Jordhan Félix**
