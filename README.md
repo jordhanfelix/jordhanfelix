@@ -4,8 +4,5 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Take Blip**
-- ⚙️ I use daily: `.cs`, `.js`
-- 🌱 Learning all about **Open Source**, **Design Patterns**
-- 💬 Ping me about **C#**, **Javascript**
+- 🏢 I'm currently working  back-end software egineer at **Linx**
 - ⚡️ Fun fact: I'm a huge fan of sports
