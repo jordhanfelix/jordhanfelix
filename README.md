@@ -1,5 +1,5 @@
 # hello 👋
-#### I'm a Back-end Software Engineer working in Brazil. (:basketball: :computer: :pizza::airplane:)
+#### I'm a Back-end Software Engineer working in Brazil.  :basketball: :computer: :pizza::airplane:
 
 ##### BIO
 
