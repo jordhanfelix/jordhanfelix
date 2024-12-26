@@ -4,4 +4,3 @@
 ##### BIO
 
 - 🏢 I'm currently working  back-end software egineer at **Linx**
-- ⚡️ Fun fact: I'm a huge fan of sports
